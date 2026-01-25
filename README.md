@@ -1,5 +1,5 @@
 # Color-X-ray-DRS  
-**Deep Learning–Driven Chromatic X-Ray Imaging with Scintillator Film Stacks for Quantitative Densitometry**
+**Deep Learning–Driven Chromatic X‐Ray Imaging Based On Multicolor Halide Scintillation Film Stacks For Quantitative Densitometry**
 
 ---
 
