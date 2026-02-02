@@ -70,8 +70,8 @@ If you use this code or the dataset, please cite:
     @article{https://doi.org/10.1002/ifm2.70009,
     author = {Wang, Hao and Zhang, Shuai and Xia, Zhiguo},
     title = {Deep learning–driven chromatic X-ray imaging based on multicolor halide scintillation film stacks for quantitative densitometry},
-    journal={Information \& Functional Materials},
-    year={2025}
+    journal={Information & Functional Materials},
+    year={2026}
 }
 ```
 
