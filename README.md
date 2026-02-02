@@ -67,11 +67,11 @@ Please view the detailed model training and deployment instructions in the 'READ
 ## 7. Citation  
 If you use this code or the dataset, please cite:  
 ```
-@article{your2024color,
-  title={Color X-ray density regression with vapor-deposited multicolor scintillator films},
-  author={H.Wang et al.h,
-  journal={ Inf Funct Mater.},
-  year={2025}
+    @article{https://doi.org/10.1002/ifm2.70009,
+    author = {Wang, Hao and Zhang, Shuai and Xia, Zhiguo},
+    title = {Deep learning–driven chromatic X-ray imaging based on multicolor halide scintillation film stacks for quantitative densitometry},
+    journal={ Inf Funct Mater.},
+    year={2025}
 }
 ```
 
